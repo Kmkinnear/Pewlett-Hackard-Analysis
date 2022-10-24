@@ -32,6 +32,13 @@ It was a little difficult to get a sense of the number of eligible employees wit
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
+![image](https://user-images.githubusercontent.com/110848660/197605624-b7c50941-f1cd-44f1-8d3f-6e7fe7149a4c.png)
 
+We can see in the chart that we will potentially have 72,458 employees that we'll need to replace in the next few years as employees retire. We can see that the majority of the positions that will need to be fill are Senior Engineer and Senior Staff positions.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+![image](https://user-images.githubusercontent.com/110848660/197646095-75d26788-51ee-4af6-a7b7-11be16826230.png)
+
+I would say that there are not enough employees eligible for the mentorship program. We can see in the chart above. We grouped together all of the titles for the eligible mentors. We can see that we only have 569 elligible Senior Staff members to help mentor. Even when you factor in the non-Senior level employees, you have a potential mentor base of 724 employees and that's assuming those employees are even interested in mentoring. Compare that to the 32,526 potential Senior Staff/Staff openings in the next few years and you realize how bad it could be trying to replace the "silver tsunami" employees. The same applies to the Engineering positions as well where you have a mentor pool of 670 combined Engineering employees that would be expected to help mentor employees and help replace 35,201 Senior Engineer/Engingeer positions
+
