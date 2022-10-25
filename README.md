@@ -17,7 +17,11 @@ The purpose of this project was to expand on our "Retiring Employees" analysis t
 
 ![image](https://user-images.githubusercontent.com/110848660/197612057-247d803c-9931-41d0-a7f9-a28a4d7aaed1.png)
 
+<<<<<<< HEAD
  - It was a little difficult to get a sense of the number of eligible employees without grouping the data together, so we took Deliverable 2 one step further and grouped them by "Title". This is similar to what we did for all of the retiring employees in Deliverable 1.
+=======
+It was a little difficult to get a sense of the number of eligible employees without grouping the data together, so we took Deliverable 2 one step further and grouped them by "Title". This is similar to what we did for all of the retiring employees in Deliverable 1.
+>>>>>>> 58e0044cf8fce538da977b8a561524a8fcdbd13d
 
 ![Mentor Grouped](https://user-images.githubusercontent.com/110848660/197613153-86893923-e69c-44a6-9806-87b41f7af7cb.png)
 
